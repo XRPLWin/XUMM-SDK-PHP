@@ -2,6 +2,8 @@
 
 # Xumm SDK (PHP)
 
+This is fork of [this repo](https://github.com/XRPL-Labs/XUMM-SDK-PHP)
+
 ## Requirements
 - PHP 8.2 or higher
 - [Composer](https://getcomposer.org/)
@@ -11,7 +13,7 @@
 To install, run:
 
 ```
-composer require xrpl/xumm-sdk-php
+composer require xrplwin/xumm-sdk-php
 ```
 
 ## Usage
