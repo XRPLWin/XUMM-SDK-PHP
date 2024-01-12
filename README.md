@@ -1,4 +1,4 @@
-![main workflow](https://github.com/XRPL-Labs/XUMM-SDK-PHP/actions/workflows/main.yml/badge.svg)
+![main workflow](https://github.com/XRPLWin/XUMM-SDK-PHP/actions/workflows/main.yml/badge.svg)
 
 # Xumm SDK (PHP)
 
